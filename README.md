@@ -15,6 +15,6 @@ We include a requirements.txt file as a reference, but note that such a file inc
 
 # How to run the code:
 To run the code, execute the following files:
-Training: python train_qmix.py
-Testing: python test_qmix.py
-Rendering: python train_render.py
+1. Training: python train_qmix.py
+2. Testing: python test_qmix.py
+3. Rendering: python train_render.py
